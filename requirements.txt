@@ -1,0 +1,4 @@
+pandas
+parsel
+requests
+nested_lookup
